@@ -4,4 +4,4 @@
 
 Notes are stored in local storage
 
-To use, go to https://github.com/oliviaseow/google-keep-clone
+To use, go to https://oliviaseow.github.io/google-keep-clone/
